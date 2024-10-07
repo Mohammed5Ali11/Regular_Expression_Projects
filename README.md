@@ -24,6 +24,8 @@ There are three tasks in this project:
 - Name Phone Email
 - Phone Name Email
 - Email Name Phone
+
+
 **Objective:**
 - Extract:
 1. Names
