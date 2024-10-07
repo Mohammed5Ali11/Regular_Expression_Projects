@@ -29,6 +29,8 @@ There are three tasks in this project:
 1. Names
 2. Phone numbers (starting with 010, 011, 012, or 015 followed by 8 digits)
 3. Email addresses (valid email format)
+### Task 3: Delimited Input Format
+
 **File structure:**
 - The input data is delimited by commas or hyphens:
 - Name, Phone Number, Email
